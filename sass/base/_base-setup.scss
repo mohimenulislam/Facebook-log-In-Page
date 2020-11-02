@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: #F0F2F5;
+}
+h1 {
+    color: #1877F2;
+    font-size: 50px;
+    font-weight: bolder;
+}
+h5 {
+    color: #1C1E21;
+    font-size: 28px;
+    font-weight: 500;
+}
+.left_side {
+    margin: auto;
+}
+.right_side {
+    margin-top: 120px;
+    
+}
+.alignment {
+    text-align: center;
+}
+.forgot_pass {
+    padding: 15px;
+    border-bottom: 1px solid #DADDE1;
+}
+.create_page {
+    margin-top: 25px;
+    margin-left: 40px;
+    a {
+        color: black;
+        font-size: 14px;
+    }
+}

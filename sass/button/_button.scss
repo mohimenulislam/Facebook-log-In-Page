@@ -1,0 +1,19 @@
+.login_button {
+    background-color: #166FE5;
+    color: white;
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.new_account_button {
+    padding: 10px 16px;
+    background-color: #42b72a;
+    font-size: 17px;
+    font-weight: bolder;
+    color: white;
+    margin-top: 22px;
+    &:hover {
+        background-color:#36A420 ;
+    }
+}

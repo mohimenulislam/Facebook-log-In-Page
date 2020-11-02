@@ -1,3 +1,70 @@
+* {
+  box-sizing: border-box; }
 
+body {
+  background-color: #F0F2F5; }
+
+h1 {
+  color: #1877F2;
+  font-size: 50px;
+  font-weight: bolder; }
+
+h5 {
+  color: #1C1E21;
+  font-size: 28px;
+  font-weight: 500; }
+
+.left_side {
+  margin: auto; }
+
+.right_side {
+  margin-top: 120px; }
+
+.alignment {
+  text-align: center; }
+
+.forgot_pass {
+  padding: 15px;
+  border-bottom: 1px solid #DADDE1; }
+
+.create_page {
+  margin-top: 25px;
+  margin-left: 40px; }
+  .create_page a {
+    color: black;
+    font-size: 14px; }
+
+.main_form {
+  padding: 15px;
+  width: 400px;
+  height: 350px;
+  background-color: #FFFFFF;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1); }
+
+.main_form input {
+  width: 100%;
+  height: 50px;
+  padding: 14px 16px; }
+  .main_form input:hover {
+    border: 1px solid #1877F2; }
+
+.login_button {
+  background-color: #166FE5;
+  color: white;
+  width: 100%;
+  height: 50px;
+  font-size: 20px;
+  font-weight: bolder; }
+
+.new_account_button {
+  padding: 10px 16px;
+  background-color: #42b72a;
+  font-size: 17px;
+  font-weight: bolder;
+  color: white;
+  margin-top: 22px; }
+  .new_account_button:hover {
+    background-color: #36A420; }
 
 /*# sourceMappingURL=style.css.map */
